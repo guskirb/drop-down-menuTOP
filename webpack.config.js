@@ -41,7 +41,7 @@ module.exports = {
     },
     plugins: [
         new HtmlWebpackPlugin({
-            title: 'Webpack Template',
+            title: 'Drop-down Menu',
             filename: 'index.html',
             template: 'src/template.html',
         }),
